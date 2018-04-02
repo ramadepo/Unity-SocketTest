@@ -339,6 +339,10 @@ Prefab:
       propertyPath: spawnManager
       value: 
       objectReference: {fileID: 666835200}
+    - target: {fileID: 1155533529738380, guid: 06a4566a87fef0d429f9fa7db4444869, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 06a4566a87fef0d429f9fa7db4444869, type: 2}
   m_IsPrefabParent: 0
@@ -1178,12 +1182,42 @@ Prefab:
     - target: {fileID: 224686115437932234, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -30
       objectReference: {fileID: 0}
     - target: {fileID: 224116678089201474, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -60
+      objectReference: {fileID: 0}
+    - target: {fileID: 224048718166022792, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224048718166022792, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224686115437932234, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224686115437932234, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224116678089201474, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224116678089201474, guid: a8443f3c2e3d4dd459f5bb39d9a56113,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a8443f3c2e3d4dd459f5bb39d9a56113, type: 2}
