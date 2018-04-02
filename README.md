@@ -11,6 +11,5 @@ In this project, I just use the message(input a number) from ***Client.exe*** to
 
 
 ## **Ref**
-[https://www.youtube.com/watch?v=7_BCbzRMi2w](https://www.youtube.com/watch?v=7_BCbzRMi2w)
-
-[https://www.youtube.com/watch?v=RwXwnXSF_EY](https://www.youtube.com/watch?v=RwXwnXSF_EY)
+- [https://www.youtube.com/watch?v=7_BCbzRMi2w](https://www.youtube.com/watch?v=7_BCbzRMi2w)
+- [https://www.youtube.com/watch?v=RwXwnXSF_EY](https://www.youtube.com/watch?v=RwXwnXSF_EY)
