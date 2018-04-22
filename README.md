@@ -1,6 +1,6 @@
 SocketTest Note
 ===
-This project is just for an experiment about using Socket to send the message in Unity, and I watched the vedio below the **Ref** to learn how to set up server and client.  
+This project is just for an implement about using Socket to send the message in Unity, and I watched the vedio below the **Ref** to learn how to set up server and client.  
      
 And I also use the result in other project like **「MiniMap」**, it really useful to construct a multi-player game.
 
