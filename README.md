@@ -1,4 +1,4 @@
-SocketTest Note
+Socket Note
 ===
 This project is an implement about using Socket to send the message in Unity, and reference the vedio below the **Ref** to learn how to set up server and client.  
      
